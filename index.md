@@ -51,9 +51,9 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Title](/pdf/Oracle_SPARC_Solaris - Presentation.pdf)
 
-- **Class:** 
+- **Class: CSCI 431 - Operating Systems** 
 - **Grade:**
 
 
