@@ -57,10 +57,10 @@ Presentations
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](/pdf/ALU Component - SCP.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 330 - Computer Architecture** 
+- **Grade: 20/20 (100%)**
 
 ---
 
