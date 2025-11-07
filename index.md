@@ -36,28 +36,28 @@ Ethics Papers
 -   **Class:**  
 -   **Grade:**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [The Meme Dilemma](/pdf/Ethic Paper - The Meme Dilemma.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 330 - Computer Architecture** 
+-   **Grade: 50/50 (100%)**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethics 1 - Summer Internship](/pdf/Ethics 1 - Summer Internship.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 495 - Systems Analysis and Software Design** 
+-   **Grade: 100/100 (100%)**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/Oracle_SPARC_Solaris - Presentation.pdf)
+### [Oracle SPARC Solaris](/pdf/Oracle_SPARC_Solaris - Presentation.pdf)
 
 - **Class: CSCI 431 - Operating Systems** 
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/ALU Component - SCP.pdf)
+### [ALU Component - SCP](/pdf/ALU Component - SCP.pdf)
 
 - **Class: CSCI 330 - Computer Architecture** 
 - **Grade: 20/20 (100%)**
