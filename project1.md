@@ -7,7 +7,7 @@ Image Bulk Editor
 -   **Grade: B+** 
 -   **Language(s): C/C++** 
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/KTClements/CSU-Senior-Project.git)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:ktclements@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
