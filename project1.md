@@ -1,28 +1,28 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Image Bulk Editor
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: CSCI 499 - Senior Project Implementation/Defense** 
+-   **Grade: B+** 
+-   **Language(s): C/C++** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A cross-platform bulk image editor built with C++ and Qt. Features include auto-white balance, color correction, noise reduction, and batch processing through OpenCV integration. Users can resize, crop, convert formats, and undo/redo operations across multiple images simultaneously. Designed to streamline workflows for photographers, digital marketers, and graphic designers.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to compile and run the project.
 
 ```bash
-cd ./project
-python setup.py
+qmake
+make
+./BulkImageTool
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
@@ -41,7 +41,8 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Requires Qt 5 or 6 and a C++17-compatible compiler (g++ or MSVC).
+Tested on Windows 10 using Qt Creator and MinGW toolchain.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
