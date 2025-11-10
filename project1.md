@@ -42,6 +42,6 @@ Fig 3. Feedback when an error occurs.
 Requires Qt 5 or 6 and a C++17-compatible compiler (g++ or MSVC).
 Tested on Windows 10 using Qt Creator and MinGW toolchain.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [README](https://github.com/KTClements/CSU-Senior-Project/blob/1b20ed1c482e327a58bd33773d7a443549b497be/README.md).
 
 [Back to Portfolio](./)
