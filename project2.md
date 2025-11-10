@@ -46,6 +46,6 @@ Fig 3. Feedback when an error occurs.
 
 Requires Node.js 14+ and MySQL 8.0+. Tested on Windows 10 and deployed on GoDaddy shared hosting with Nginx.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://github.com/Racabane/CSCI_495_RED_TEAM/blob/4c2ecd9059c9faedd5e883c79e980f3b8c5423b8/README.md).
 
 [Back to Portfolio](./)
