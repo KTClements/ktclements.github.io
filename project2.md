@@ -7,7 +7,7 @@ ClinVar Data Query Portal
 -   **Grade: A** 
 -   **Language(s): JavaScript (Node.js), HTML/CSS, SQL** 
 -   **Source Code Repository:** [Racabane/CSCI_495_RED_TEAM](https://github.com/Racabane/CSCI_495_RED_TEAM.git)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:ktclements@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
