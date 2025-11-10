@@ -3,8 +3,8 @@
 ClinVar Data Query Portal
 ===============
 
--   **Class:** 
--   **Grade:** 
+-   **Class: CSCI 495 - Systems Analysis and Software Design** 
+-   **Grade: A** 
 -   **Language(s): JavaScript (Node.js), HTML/CSS, SQL** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
