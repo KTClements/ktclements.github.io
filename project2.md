@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+ClinVar Data Query Portal
 ===============
 
 -   **Class:** 
