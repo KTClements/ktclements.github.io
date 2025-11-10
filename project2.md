@@ -5,30 +5,33 @@ Project 1 Title
 
 -   **Class:** 
 -   **Grade:** 
--   **Language(s):** 
+-   **Language(s): JavaScript (Node.js), HTML/CSS, SQL** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A web-based query portal for ClinVar genetic variant data built with Node.js and MySQL. The application automatically downloads and processes variant data from ClinVar's FTP site weekly, allowing researchers and healthcare professionals to search, filter, and export specific subsets of genetic variant information. Features include automated database synchronization, multi-column filtering, keyword search, and export functionality in CSV and tab-delimited formats compatible with Microsoft Access. Designed to simplify access to ClinVar's extensive genetic variant database for clinical researchers, genetic counselors, and bioinformatics professionals who need targeted data without managing bulk downloads.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
+1. Install Node.js and MySQL server with workbench
+2. Clone the repository
+3. Install dependencies:
 ```bash
-cd ./project
-python setup.py
+npm install
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+4. Configure MySQL connection in `index.js` with your local credentials
+5. Create the database by running `databaseCreation.sql` in MySQL Workbench
+6. Start the server:
+```bash
+node index.js
+```
+7. Access the application at `localhost:3000` or your system's IPv4 address on the local network
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Access the web interface to view the last database update date and begin querying. Select columns from the dropdown menu and enter keywords in the search bar to filter genetic variant data. The interface displays your search history and shows when a query is processing. Once complete, download the filtered results in CSV or tab-delimited format for import into Microsoft Access or other analysis tools.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
@@ -41,7 +44,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Requires Node.js 14+ and MySQL 8.0+. Tested on Windows 10 and deployed on GoDaddy shared hosting with Nginx.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
