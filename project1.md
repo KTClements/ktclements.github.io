@@ -6,7 +6,7 @@ Image Bulk Editor
 -   **Class: CSCI 499 - Senior Project Implementation/Defense** 
 -   **Grade: B+** 
 -   **Language(s): C/C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/KTClements/CSU-Senior-Project.git)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
