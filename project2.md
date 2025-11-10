@@ -44,7 +44,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Requires Node.js 14+ and MySQL 8.0+. Tested on Windows 10 and deployed on GoDaddy shared hosting with Nginx.
+Requires Node.js 14+ and MySQL 8.0+.
 
 For more details see [README](https://github.com/Racabane/CSCI_495_RED_TEAM/blob/4c2ecd9059c9faedd5e883c79e980f3b8c5423b8/README.md).
 
