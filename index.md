@@ -17,12 +17,12 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Single-Cycle Processor (SCP) | CSCI 330](project3)
+### [Single-Cycle Processor | CSCI 330](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [MDT Inventory Management Program | CSCI 419](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
