@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Edward Snowden: The Privacy Dilemma](/pdf/White Paper 1.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 405 - Principles of Cybersecurity**  
+-   **Grade: 100/100 (100%)**
 
 ### [The Meme Dilemma](/pdf/Ethic Paper - The Meme Dilemma.pdf)
 
