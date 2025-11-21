@@ -6,7 +6,7 @@ ClinVar Data Query Portal
 -   **Class: CSCI 495 - Systems Analysis and Software Design** 
 -   **Grade: A** 
 -   **Language(s): JavaScript (Node.js), HTML/CSS, SQL** 
--   **Source Code Repository:** [Racabane/CSCI_495_RED_TEAM](https://github.com/Racabane/CSCI_495_RED_TEAM.git)  
+-   **Source Code Repository:** [csu-cs/CSCI_495_RED_TEAM](https://github.com/csu-cs/CSCI-495-ClinVar-Project-RedTeam.git)  
     (Please [email me](mailto:ktclements@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
