@@ -37,7 +37,7 @@ Access the web interface to view the last database update date and begin queryin
 Fig 1. The launch screen
 
 ![screenshot](images/clinvar_2.jpg)  
-Fig 2. Example output after input is processed.
+Fig 2. Example error after incorrect input.
 
 ## 3. Additional Considerations
 
