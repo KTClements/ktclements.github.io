@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Single-Cycle Processor | CSCI 330](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/scp_thumbnail.jpg)
 
 ---
 ### [MDT Inventory Management Program | CSCI 419](project4)
@@ -54,7 +54,7 @@ Presentations
 ### [Oracle SPARC Solaris](/pdf/Oracle_SPARC_Solaris - Presentation.pdf)
 
 - **Class: CSCI 431 - Operating Systems** 
-- **Grade:**
+- **Grade: 20/20 (100%)**
 
 
 ### [ALU Component - SCP](/pdf/ALU Component - SCP.pdf)
