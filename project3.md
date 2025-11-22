@@ -48,10 +48,9 @@ This project is a hardware simulation and does not feature a graphical user inte
 Below are examples of the debugging output required to verify the loop iterations and halt instructions.
 
 ![screenshot](images/scp_1.jpg)  
-Fig 1. The launch screen
 
 ![screenshot](images/scp_2.jpg)  
-Fig 2. Example output after input is processed.
+Fig 1 & 2. SCP test output.
 
 ## 3. Additional Considerations
 
