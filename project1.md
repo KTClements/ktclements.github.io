@@ -29,10 +29,10 @@ make
 Launch the app and click Select Folder to load images from a directory, then select any image to preview it below. Use the right panel to apply transformations including rotate (90°, 180°, 270°), flip (horizontal/vertical), auto white balance, and color level adjustment (histogram/gamma), then click Export to save all images in bulk with custom size, format, and quality settings.
 
 ![screenshot](images/image_bulk_editor_1.jpg)  
-Fig 1. The launch screen
+Fig 1. Manually adjust image colors.
 
 ![screenshot](images/image_bulk_editor_2.jpg)  
-Fig 2. Example output after input is processed.
+Fig 2. Export settings.
 
 ## 3. Additional Considerations
 
