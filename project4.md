@@ -54,10 +54,10 @@ The application allows users to perform the following tasks:
 3.  **Track Returns:** Process the return of MDTs and log the data for the chain of command.
 
 ![screenshot](images/mdt_1.jpg)  
-Fig 1. The launch screen
+Fig 1. Example of a successful report.
 
 ![screenshot](images/mdt_2.jpg)  
-Fig 2. Example output after input is processed.
+Fig 2. Local '.csv' file generated.
 
 ## 3. Additional Considerations
 
