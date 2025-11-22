@@ -33,14 +33,11 @@ node index.js
 
 Access the web interface to view the last database update date and begin querying. Select columns from the dropdown menu and enter keywords in the search bar to filter genetic variant data. The interface displays your search history and shows when a query is processing. Once complete, download the filtered results in CSV or tab-delimited format for import into Microsoft Access or other analysis tools.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/clinvar_1.jpg)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/clinvar_2.jpg)  
 Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
