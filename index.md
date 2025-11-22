@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Image Bulk Editor | CSCI 499](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/image_bulk editor_thumbnail.jpg)
 
 ---
 ### [ClinVar Project | CSCI 495](project2)
