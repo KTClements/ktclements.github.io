@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [ClinVar Project | CSCI 495](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/clinvar_thumbnail.jpg)
 
 ---
 ### [Single-Cycle Processor | CSCI 330](project3)
