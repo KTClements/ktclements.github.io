@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [MDT Inventory Management Program | CSCI 419](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/mdt_thumbnail.jpg)
 
 ---
 
