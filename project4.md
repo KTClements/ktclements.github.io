@@ -53,14 +53,11 @@ The application allows users to perform the following tasks:
 2.  **Assign Hardware:** Link specific PC Models, Serial Numbers, and Aircard IP addresses to the user.
 3.  **Track Returns:** Process the return of MDTs and log the data for the chain of command.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/mdt_1.jpg)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/mdt_2.jpg)  
 Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
